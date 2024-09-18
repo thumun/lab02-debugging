@@ -1,4 +1,4 @@
-# lab06-debugging
+# lab02-debugging
 
 # Setup 
 
